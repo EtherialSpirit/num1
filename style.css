@@ -1,0 +1,26 @@
+#close {
+  background: #0099ff;
+  border: none;
+  border-radius: 5px;
+  padding: 8px 14px;
+  font-size: 15px;
+  color: #fff;
+  position: absolute;
+  right: 0;
+  bottom: 2;
+}
+
+#dialog {
+  width: 200px;
+  height: 120px;
+  border: 1px solid;
+}
+
+#solve1 {
+  position: absolute;
+  left: 1%;
+}
+
+#closed {
+  position: relative;
+}
